@@ -5,7 +5,7 @@ A .NET Core Web API that consumes the PokeAPI
           Retrieves a list of pokémon. Accepts parameters [page] and [items] number for pagination.
 
 ## GET    /api/pokemon/{id or name}
-          Retrieves the date of a single pokémon.
+          Retrieves the data of a single pokémon.
 
 ## GET    /api/favorite
           Retrieves a list of favorited pokémon.
