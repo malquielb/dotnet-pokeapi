@@ -17,4 +17,4 @@ A .NET Core Web API that consumes the PokeAPI
           Adds a new pokémon to favorites.
 
 ## DELETE /api/favorite/{id}
-          Delete a pokémon from favorites.
+          Deletes a pokémon from favorites.
